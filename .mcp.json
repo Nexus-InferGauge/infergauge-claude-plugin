@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "infergauge": {
+      "type": "http",
+      "url": "https://console.infergauge.com/api/mcp"
+    }
+  }
+}

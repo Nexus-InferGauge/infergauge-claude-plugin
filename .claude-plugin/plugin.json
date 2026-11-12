@@ -1,0 +1,15 @@
+{
+  "name": "infergauge",
+  "displayName": "InferGauge",
+  "version": "1.0.0",
+  "description": "Load test AI and LLM endpoints: build validated test configs, read results, find where an application saturates, catch regressions and generate CI performance gates.",
+  "author": {
+    "name": "Nexus Corporation DBA InferGauge",
+    "email": "alimalik@nexusadvisors.ai",
+    "url": "https://www.infergauge.com"
+  },
+  "homepage": "https://www.infergauge.com/docs/claude",
+  "repository": "https://github.com/Nexus-InferGauge/infergauge-claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["load-testing", "performance-testing", "llm", "observability", "metrics", "ci", "developer-tools"]
+}
