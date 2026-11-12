@@ -9,6 +9,7 @@
     "url": "https://www.infergauge.com"
   },
   "homepage": "https://www.infergauge.com/docs/claude",
+  "privacyPolicyUrl": "https://www.infergauge.com/privacy",
   "repository": "https://github.com/Nexus-InferGauge/infergauge-claude-plugin",
   "license": "Apache-2.0",
   "keywords": ["load-testing", "performance-testing", "llm", "observability", "metrics", "ci", "developer-tools"]
